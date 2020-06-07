@@ -25,3 +25,7 @@ Captura
 ## El tipo de cambio se hizo correctamente.
 
 ![img4](https://user-images.githubusercontent.com/54046238/83978025-a1d65c00-a8d2-11ea-859a-87820fd08865.png)
+
+## Cambio dedolares a bolivianos
+
+![img14](https://user-images.githubusercontent.com/54046238/83980794-8412f200-a8e6-11ea-82a1-71ac6f558001.png)
