@@ -29,3 +29,7 @@ Captura
 ## Cambio dedolares a bolivianos
 
 ![img14](https://user-images.githubusercontent.com/54046238/83980794-8412f200-a8e6-11ea-82a1-71ac6f558001.png)
+
+## Ejercicio 3 Operaciones basicas "SUMA"
+
+![img10](https://user-images.githubusercontent.com/54046238/83980835-d94f0380-a8e6-11ea-812e-6acfe4727e1e.png)
