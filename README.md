@@ -33,3 +33,7 @@ Captura
 ## Ejercicio 3 Operaciones basicas "SUMA"
 
 ![img10](https://user-images.githubusercontent.com/54046238/83980835-d94f0380-a8e6-11ea-812e-6acfe4727e1e.png)
+
+## "RESTA"
+
+![img11](https://user-images.githubusercontent.com/54046238/83980894-377be680-a8e7-11ea-9922-cc4af9fd81a1.png)
