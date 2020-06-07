@@ -12,3 +12,4 @@ Captura
 
 ## Ejercicio 1 parámetros enviados desde la URL.
 
+![img1](https://user-images.githubusercontent.com/54046238/83977883-a9493580-a8d1-11ea-87b2-387a687f9345.png)
