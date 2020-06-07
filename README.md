@@ -50,6 +50,9 @@ Captura
 
 ![img5](https://user-images.githubusercontent.com/54046238/83981008-0fd94e00-a8e8-11ea-8815-569e832e57f5.png)
 
-## Si la suma de los dados no es ni 7 o 11 perdiste
+## Si la suma de los dados no es ni 7 o 11 "PERDISTE"
 
 ![img6](https://user-images.githubusercontent.com/54046238/83981041-5169f900-a8e8-11ea-8b27-e31afd05a8e4.png)
+
+## Si la suma de los dados es 7 y 11 "GANASTE"
+
