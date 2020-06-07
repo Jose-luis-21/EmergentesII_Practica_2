@@ -37,3 +37,7 @@ Captura
 ## "RESTA"
 
 ![img11](https://user-images.githubusercontent.com/54046238/83980894-377be680-a8e7-11ea-9922-cc4af9fd81a1.png)
+
+## "MULTIPLICACION"
+
+![img12](https://user-images.githubusercontent.com/54046238/83980929-714ced00-a8e7-11ea-885d-f0dfa883537d.png)
