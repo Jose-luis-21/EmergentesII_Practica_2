@@ -45,3 +45,7 @@ Captura
 ## "DIVISON"
 
 ![img13](https://user-images.githubusercontent.com/54046238/83980953-a9ecc680-a8e7-11ea-97a9-1ef6f98b5535.png)
+
+## Ejercicio 4 Juego de Dados
+
+![img5](https://user-images.githubusercontent.com/54046238/83981008-0fd94e00-a8e8-11ea-8815-569e832e57f5.png)
