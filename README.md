@@ -61,3 +61,7 @@ Captura
 ## Ejercicio 5 Matriz Caracol
 
 ![img8](https://user-images.githubusercontent.com/54046238/83981124-292eca00-a8e9-11ea-80f1-f73c073d46ca.png)
+
+## Asi se genera la matriz caracol
+
+![img9](https://user-images.githubusercontent.com/54046238/83981181-a9552f80-a8e9-11ea-80ca-e107a5f525f5.png)
