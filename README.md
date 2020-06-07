@@ -57,3 +57,7 @@ Captura
 ## Si la suma de los dados es 7 y 11 "GANASTE"
 
 ![img7](https://user-images.githubusercontent.com/54046238/83981103-f4227780-a8e8-11ea-9270-8eb2928016b8.png)
+
+## Ejercicio 5 Matriz Caracol
+
+![img8](https://user-images.githubusercontent.com/54046238/83981124-292eca00-a8e9-11ea-80f1-f73c073d46ca.png)
