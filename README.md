@@ -56,3 +56,4 @@ Captura
 
 ## Si la suma de los dados es 7 y 11 "GANASTE"
 
+![img7](https://user-images.githubusercontent.com/54046238/83981103-f4227780-a8e8-11ea-9270-8eb2928016b8.png)
