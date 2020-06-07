@@ -41,3 +41,7 @@ Captura
 ## "MULTIPLICACION"
 
 ![img12](https://user-images.githubusercontent.com/54046238/83980929-714ced00-a8e7-11ea-885d-f0dfa883537d.png)
+
+## "DIVISON"
+
+![img13](https://user-images.githubusercontent.com/54046238/83980953-a9ecc680-a8e7-11ea-97a9-1ef6f98b5535.png)
