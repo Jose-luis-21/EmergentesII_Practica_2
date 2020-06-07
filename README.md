@@ -13,3 +13,7 @@ Captura
 ## Ejercicio 1 parámetros enviados desde la URL.
 
 ![img1](https://user-images.githubusercontent.com/54046238/83977883-a9493580-a8d1-11ea-87b2-387a687f9345.png)
+
+## Ejercicio 2 Tipo de cambio de bolivianos a dolares y viceversa
+
+![img2](https://user-images.githubusercontent.com/54046238/83977928-f0cfc180-a8d1-11ea-8d15-9a0a4f8496e3.png)
