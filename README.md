@@ -21,3 +21,7 @@ Captura
 ## Ejercicio 2 Tipo de cambio de bolivianos a dolares y viceversa.
 
 ![img3](https://user-images.githubusercontent.com/54046238/83977986-59b73980-a8d2-11ea-965c-92313e61319c.png)
+
+## El tipo de cambio se hizo correctamente.
+
+![img4](https://user-images.githubusercontent.com/54046238/83978025-a1d65c00-a8d2-11ea-859a-87820fd08865.png)
